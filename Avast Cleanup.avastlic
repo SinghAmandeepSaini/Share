@@ -1,0 +1,337 @@
+[Certificates]
+WalletKeys=PKZ4FU-FMY8WJ-54C4S6
+CustomerName=Joel Franco
+CertificateCount=8
+
+[Certificate0]
+SubscriptionId=3c3d8017b06144d67a8976c1
+LicenseId=680aca45-030e-49ee-9f97-d773342ab63d
+CustomerName=Joel Franco
+CustomerEmail=jfranco2799@gmail.com
+CorrelationIds=c7bcb79b-13a9-4a70-a014-cc2df6978602
+ProductName=Avast Cleanup Premium PreAuth Trial - 1 user, 2 months
+LicensingSchemaId=avast-cleanup-premium-1s-2m_v1
+Validity=P2M
+Feature=GF_SRV
+LicenseFamily=GrimeFighter
+LicenseCount=1
+LicenseCountCurrent=0
+# paid, billing OFF
+LicenseType=0
+LicenseTypeAlpha=3
+BillingSubscriptionId=30121222
+BillingSubscriptionMode=3
+# 2018-08-15 14:22:18
+LastBillingTime=1534342938
+Issued=1534350069
+# 2018-10-15 16:21:09
+UpdateValidThru=1539620469
+
+[Certificate0.Feature0]
+Family=GrimeFighter
+Feature=gf-srv
+Platform=null
+UpdateValidThru=1539620469
+[Certificate0.Resource0]
+ResourceName=devices
+CurrentValue=0.0
+OriginalValue=1.0
+
+
+[Certificate1]
+SubscriptionId=3c3d8017b06144d67a8976c1
+LicenseId=da78ffa7-116d-4538-9f69-011a7e8266ee
+CustomerName=Joel Franco
+CustomerEmail=jfranco2799@gmail.com
+CorrelationIds=SR_NWR-114662143-114662143.1;SR_NWR-139436513-139436513.1;05e7f893-8693-4d8a-9b69-4e1e93684a0f
+ProductName=Avast Internet Security - 1 user, 1 year
+LicensingSchemaId=avast-internet-sec-1y-1s_1
+Validity=P12M
+Feature=AV_AIS
+LicenseFamily=AvConsumer
+LicenseCount=1
+LicenseCountCurrent=0
+# paid, billing OFF
+LicenseType=0
+LicenseTypeAlpha=3
+BillingSubscriptionId=15049695
+BillingSubscriptionMode=3
+# 2018-06-27 01:11:49
+LastBillingTime=1530061909
+Issued=1471672942
+# 2019-06-27 05:43:59
+UpdateValidThru=1561614239
+
+[Certificate1.Feature0]
+Family=AvConsumer
+Feature=alc_cmp_sfzone
+Platform=null
+UpdateValidThru=1561614239
+
+[Certificate1.Feature1]
+Family=AvConsumer
+Feature=alc_cmp_snx
+Platform=null
+UpdateValidThru=1561614239
+
+[Certificate1.Feature2]
+Family=AvConsumer
+Feature=alc_shl_spm
+Platform=null
+UpdateValidThru=1561614239
+
+[Certificate1.Feature3]
+Family=AvConsumer
+Feature=alc_cmp_secdns
+Platform=null
+UpdateValidThru=1561614239
+
+[Certificate1.Feature4]
+Family=AvConsumer
+Feature=alc_cmp_fw
+Platform=null
+UpdateValidThru=1561614239
+[Certificate1.Resource0]
+ResourceName=devices
+CurrentValue=0.0
+OriginalValue=1.0
+
+
+[Certificate2]
+SubscriptionId=3c3d8017b06144d67a8976c1
+LicenseId=e2b8776a-387a-40c4-ab96-bfc9b6969627
+CustomerName=Joel Franco
+CustomerEmail=jfranco2799@gmail.com
+CorrelationIds=05e7f893-8693-4d8a-9b69-4e1e93684a0f
+ProductName=Avast Internet Security - 1 user, 1 year
+LicensingSchemaId=avast-internet-sec-1y-1s_1
+Validity=P12M
+Feature=AV_AIS
+LicenseFamily=AvConsumer
+LicenseCount=1
+LicenseCountCurrent=0
+# paid, billing OFF
+LicenseType=0
+LicenseTypeAlpha=3
+BillingSubscriptionId=13301566
+BillingSubscriptionMode=3
+# 2016-03-06 05:59:03
+LastBillingTime=1457243943
+Issued=1471672942
+# 2017-03-06 07:53:56
+UpdateValidThru=1488786836
+
+[Certificate2.Feature0]
+Family=AvConsumer
+Feature=alc_cmp_fw
+Platform=null
+UpdateValidThru=1488786836
+
+[Certificate2.Feature1]
+Family=AvConsumer
+Feature=alc_cmp_snx
+Platform=null
+UpdateValidThru=1488786836
+
+[Certificate2.Feature2]
+Family=AvConsumer
+Feature=alc_cmp_sfzone
+Platform=null
+UpdateValidThru=1488786836
+
+[Certificate2.Feature3]
+Family=AvConsumer
+Feature=alc_shl_spm
+Platform=null
+UpdateValidThru=1488786836
+
+[Certificate2.Feature4]
+Family=AvConsumer
+Feature=alc_cmp_secdns
+Platform=null
+UpdateValidThru=1488786836
+[Certificate2.Resource0]
+ResourceName=devices
+CurrentValue=0.0
+OriginalValue=1.0
+
+
+[Certificate3]
+SubscriptionId=3c3d8017b06144d67a8976c1
+LicenseId=7c8610c0-109d-459e-ac7c-9a7e19adc86d
+CustomerName=Joel Franco
+CustomerEmail=jfranco2799@gmail.com
+CorrelationIds=05e7f893-8693-4d8a-9b69-4e1e93684a0f
+ProductName=Avast Cleanup - 1 user, 1 year
+LicensingSchemaId=avast-cleanup-1y-1s_1
+Validity=P12M
+Feature=GF_SRV
+LicenseFamily=GrimeFighter
+LicenseCount=1
+LicenseCountCurrent=0
+# paid, billing OFF
+LicenseType=0
+LicenseTypeAlpha=3
+BillingSubscriptionId=12871957
+BillingSubscriptionMode=3
+# 2016-02-08 05:30:12
+LastBillingTime=1454909412
+Issued=1471672942
+# 2017-02-08 07:24:38
+UpdateValidThru=1486538678
+
+[Certificate3.Feature0]
+Family=GrimeFighter
+Feature=gf_srv
+Platform=null
+UpdateValidThru=1486538678
+[Certificate3.Resource0]
+ResourceName=devices
+CurrentValue=0.0
+OriginalValue=1.0
+
+
+[Certificate4]
+SubscriptionId=3c3d8017b06144d67a8976c1
+LicenseId=0f5f82d1-579d-4cc8-be64-2f21ebd11df0
+CustomerName=Joel Franco
+CustomerEmail=jfranco2799@gmail.com
+CorrelationIds=05e7f893-8693-4d8a-9b69-4e1e93684a0f
+ProductName=Avast Cleanup - 1 user, 1 year
+LicensingSchemaId=avast-cleanup-1y-1s_1
+Validity=P12M
+Feature=GF_SRV
+LicenseFamily=GrimeFighter
+LicenseCount=1
+LicenseCountCurrent=0
+# paid, billing OFF
+LicenseType=0
+LicenseTypeAlpha=3
+BillingSubscriptionId=10093178
+BillingSubscriptionMode=3
+# 2015-08-21 02:35:04
+LastBillingTime=1440124504
+Issued=1471672942
+# 2016-08-21 06:29:54
+UpdateValidThru=1471760994
+
+[Certificate4.Feature0]
+Family=GrimeFighter
+Feature=gf_srv
+Platform=null
+UpdateValidThru=1471760994
+[Certificate4.Resource0]
+ResourceName=devices
+CurrentValue=0.0
+OriginalValue=1.0
+
+
+[Certificate5]
+SubscriptionId=3c3d8017b06144d67a8976c1
+LicenseId=aec786d1-33f9-434d-8cf7-e27d83f5d7b4
+CustomerName=Joel Franco
+CustomerEmail=jfranco2799@gmail.com
+CorrelationIds=05e7f893-8693-4d8a-9b69-4e1e93684a0f
+ProductName=Avast Cleanup - 1 user, 1 year
+LicensingSchemaId=avast-cleanup-1y-1s_1
+Validity=P12M
+Feature=GF_SRV
+LicenseFamily=GrimeFighter
+LicenseCount=1
+LicenseCountCurrent=0
+# paid, billing OFF
+LicenseType=0
+LicenseTypeAlpha=3
+BillingSubscriptionId=13651089
+BillingSubscriptionMode=3
+# 2016-03-25 03:12:20
+LastBillingTime=1458875540
+Issued=1471672942
+# 2017-03-25 05:07:10
+UpdateValidThru=1490418430
+
+[Certificate5.Feature0]
+Family=GrimeFighter
+Feature=gf_srv
+Platform=null
+UpdateValidThru=1490418430
+[Certificate5.Resource0]
+ResourceName=devices
+CurrentValue=0.0
+OriginalValue=1.0
+
+
+[Certificate6]
+SubscriptionId=3c3d8017b06144d67a8976c1
+LicenseId=857d36c7-d514-4a1b-9fac-f9e9829157fb
+CustomerName=Joel Franco
+CustomerEmail=jfranco2799@gmail.com
+CorrelationIds=eabeb4c5-c869-4ffc-95d0-6afe7d602def
+ProductName=Avast Cleanup Premium - 1 user, 3 years
+LicensingSchemaId=avast-cleanup-premium-1s-3y_v1
+Validity=P3Y
+Feature=GF_SRV
+LicenseFamily=GrimeFighter
+LicenseCount=1
+LicenseCountCurrent=0
+# paid, billing ON
+LicenseType=10
+LicenseTypeAlpha=3
+BillingSubscriptionId=40159895
+BillingSubscriptionMode=2
+# 2019-09-22 15:17:17
+LastBillingTime=1569165437
+# 2022-09-22 15:17:17
+NextBillingTime=1663859837
+Issued=1569172532
+# 2022-09-22 17:15:32
+UpdateValidThru=1663866932
+
+[Certificate6.Feature0]
+Family=GrimeFighter
+Feature=gf-srv
+Platform=null
+UpdateValidThru=1663866932
+[Certificate6.Resource0]
+ResourceName=devices
+CurrentValue=0.0
+OriginalValue=1.0
+
+
+[Certificate7]
+SubscriptionId=3c3d8017b06144d67a8976c1
+LicenseId=bc0077a8-7620-4d13-b064-e5e8a6d5868e
+CustomerName=Joel Franco
+CustomerEmail=jfranco2799@gmail.com
+CorrelationIds=SR_NWR-116187486-116187486.1;05e7f893-8693-4d8a-9b69-4e1e93684a0f
+ProductName=Avast Cleanup - 1 user, 1 year
+LicensingSchemaId=avast-cleanup-1y-1s_1
+Validity=P12M
+Feature=GF_SRV
+LicenseFamily=GrimeFighter
+LicenseCount=1
+LicenseCountCurrent=0
+# paid, billing OFF
+LicenseType=0
+LicenseTypeAlpha=3
+BillingSubscriptionId=15517927
+BillingSubscriptionMode=3
+# 2017-07-31 17:17:33
+LastBillingTime=1501521453
+Issued=1471672942
+# 2018-08-01 23:09:55
+UpdateValidThru=1533164995
+
+[Certificate7.Feature0]
+Family=GrimeFighter
+Feature=gf_srv
+Platform=null
+UpdateValidThru=1533164995
+[Certificate7.Resource0]
+ResourceName=devices
+CurrentValue=0.0
+OriginalValue=1.0
+
+
+[Signature]
+Signature=ASWSig3L4395c57b7022b38abde02682ba765a92c54ea412bca2362d7c7a981c7334f968ASWSig3L
